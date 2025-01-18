@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Nehemias Lucas
  */
 
 public class Class2 {
